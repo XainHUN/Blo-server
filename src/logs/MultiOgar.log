@@ -1,0 +1,30 @@
+=== Started 2017-08-26T20-07-01-825 ===
+[INFO ][20:07:01] [1m[32mMultiOgar 1.2.69[37m - An open source multi-protocol ogar server[0m
+[WARN ][20:07:01] ./ipbanlist.txt is missing.
+[WARN ][20:07:01] User account "Local Moderator" disabled
+[WARN ][20:07:01] User account "Local User" disabled
+[INFO ][20:07:01] 1 user records loaded.
+[INFO ][20:07:01] 419 bad words loaded
+[WARN ][20:07:01] TLS: not supported (SSL certificate not found!)
+[INFO ][20:07:01] WebSocket: ws
+[INFO ][20:07:02] Started stats server on port 9999
+[INFO ][20:07:02] Listening on port 1111
+[INFO ][20:07:02] Current game mode is FFA
+[NONE ][20:07:04] >gamemode 3
+[NONE ][20:07:04] Changed game mode to InstantMerge
+[NONE ][20:07:09] Joined 605228199677191 sm: 109 cl_ver: 111
+[NONE ][20:07:17] >addbot 20
+[NONE ][20:07:17] Added 20 player bots
+[NONE ][20:10:55] >kickbot 20
+[WARN ][20:10:55] Kicked 20 bots
+[NONE ][20:11:00] DISCONNECTED 127.0.0.1:49979, code: 1000, reason: "", name: "γττ ✇ DeezNuts"
+[NONE ][20:11:08] Joined 605228199677191 sm: 109 cl_ver: 111
+[NONE ][20:11:21] >addbot 20
+[NONE ][20:11:21] Added 20 player bots
+[NONE ][20:26:02] >killall
+[NONE ][20:26:02] Removed 160 cells
+[NONE ][20:32:35] DISCONNECTED 127.0.0.1:36696, code: 1000, reason: "", name: "γττ ✇ DeezNuts"
+[NONE ][20:32:40] >exit
+[WARN ][20:32:40] Closing server...
+[DEBUG][20:32:40] process.exit(1)
+=== Shutdown 2017-08-26T20-32-40-313 ===

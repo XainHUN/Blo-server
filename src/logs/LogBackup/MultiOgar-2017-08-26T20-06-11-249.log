@@ -1,0 +1,19 @@
+=== Started 2017-08-26T20-04-41-279 ===
+[INFO ][20:04:41] [1m[32mMultiOgar 1.2.69[37m - An open source multi-protocol ogar server[0m
+[WARN ][20:04:41] ./ipbanlist.txt is missing.
+[WARN ][20:04:41] User account "Local Moderator" disabled
+[WARN ][20:04:41] User account "Local User" disabled
+[INFO ][20:04:41] 1 user records loaded.
+[INFO ][20:04:41] 419 bad words loaded
+[WARN ][20:04:41] TLS: not supported (SSL certificate not found!)
+[INFO ][20:04:41] WebSocket: ws
+[INFO ][20:04:41] Started stats server on port 9999
+[INFO ][20:04:41] Listening on port 1111
+[INFO ][20:04:41] Current game mode is FFA
+[NONE ][20:04:45] >gamemode 3
+[NONE ][20:04:45] Changed game mode to InstantMerge
+[NONE ][20:04:54] Joined 605228199677191 sm: 109 cl_ver: 111
+[NONE ][20:06:06] >exit
+[WARN ][20:06:06] Closing server...
+[DEBUG][20:06:06] process.exit(1)
+=== Shutdown 2017-08-26T20-06-06-160 ===

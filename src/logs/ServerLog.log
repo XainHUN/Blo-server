@@ -1,0 +1,23 @@
+=== Started 2017-09-08T17-52-33-711 ===
+[INFO ][17:52:33] [1m[32mMultiOgar 1.2.69[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:52:33] 0 IP ban records loaded.
+[WARN ][17:52:33] User account "Local Moderator" disabled
+[WARN ][17:52:33] User account "Local User" disabled
+[INFO ][17:52:33] 1 user records loaded.
+[INFO ][17:52:33] 419 bad words loaded
+[WARN ][17:52:33] TLS: not supported (SSL certificate not found!)
+[INFO ][17:52:33] WebSocket: ws
+[INFO ][17:52:34] Started stats server on port 9999
+[FATAL][17:52:34] TypeError: cell.getSize is not a function
+    at GameServer.spawnFood (/storage/emulated/0/Android/data/com.termux/MultiOgar-Edited-master/src/GameServer.js:735:25)
+    at GameServer.startingFood (/storage/emulated/0/Android/data/com.termux/MultiOgar-Edited-master/src/GameServer.js:712:14)
+    at GameServer.onHttpServerOpen (/storage/emulated/0/Android/data/com.termux/MultiOgar-Edited-master/src/GameServer.js:214:10)
+    at Server.g (events.js:292:16)
+    at emitNone (events.js:91:20)
+    at Server.emit (events.js:185:7)
+    at emitListeningNT (net.js:1284:10)
+    at _combinedTickCallback (internal/process/next_tick.js:77:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+    at Module.runMain (module.js:606:11)
+[DEBUG][17:52:34] process.exit(1)
+=== Shutdown 2017-09-08T17-52-34-186 ===
